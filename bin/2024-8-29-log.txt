@@ -1,0 +1,2 @@
+10:1:38 =>first log message!10:4:25 =>first log message!
+10:4:25 =>/home/wkj/VSCode/myrpc/example/callee/friendservice.cc:main:51
